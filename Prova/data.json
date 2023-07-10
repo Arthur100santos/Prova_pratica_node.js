@@ -1,0 +1,8 @@
+{
+    "info":{
+        "sistema_opetacional": "console.log(os.platform())",
+        "memoria_disponivel": "",
+        "diretorio": ""
+}
+
+}
